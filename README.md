@@ -1,2 +1,2 @@
-# api-flask
-REST API construída com Flask e Flask-RESTful
+# api-flask-sqlalchemy
+REST API construída com Flask, Flask-RESTful e SQLAlchemy
